@@ -1,2 +1,1 @@
 Este projeto é um código python de calculadora simples que realiza soma, subtração, multiplicação e divisão.
-Atenção: Ela é muito simples e não lida com muitos provavéis tipos de erros como, por exemplo, a divisão por zero.
