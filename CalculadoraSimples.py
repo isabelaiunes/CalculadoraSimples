@@ -1,10 +1,15 @@
 print("\n******************* Calculadora em Python *******************")
 print("\nSelecione o número da operação desejada")
 print("1 - Soma")
-2- Subtração, 3- Multiplicação, 4- Divisão")
+print("2- Subtração")
+print("3- Multiplicação")
+print("4- Divisão")
+
 operacao = (input('Qual operação você quer fazer? '))
+
 num1 = float(input("Digite o primeiro número: "))
 num2 = float(input("Digite o segundo número: "))
+
 if operacao == "1":
     resultado = num1 + num2
     print("O resultado é: ", resultado)
