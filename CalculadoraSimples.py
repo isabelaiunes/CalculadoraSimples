@@ -5,7 +5,7 @@ print("2- Subtração")
 print("3- Multiplicação")
 print("4- Divisão")
 
-operacao = (input('\nQual operação você quer fazer? '))
+operacao = (input('\nSelecione o número da operação desejada:  '))
 
 num1 = float(input("\nDigite o primeiro número: "))
 num2 = float(input("\nDigite o segundo número: "))
