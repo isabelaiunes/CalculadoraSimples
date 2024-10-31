@@ -5,10 +5,10 @@ print("2- Subtração")
 print("3- Multiplicação")
 print("4- Divisão")
 
-operacao = (input('Qual operação você quer fazer? '))
+operacao = (input('\nQual operação você quer fazer? '))
 
-num1 = float(input("Digite o primeiro número: "))
-num2 = float(input("Digite o segundo número: "))
+num1 = float(input("\nDigite o primeiro número: "))
+num2 = float(input("\nDigite o segundo número: "))
 
 if operacao == "1":
     resultado = num1 + num2
