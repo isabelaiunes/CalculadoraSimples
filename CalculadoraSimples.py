@@ -25,4 +25,4 @@ elif operacao == "4":
     else:
         resultado = num1 % num2
 else:
-    print('Operação Inválida. Selecione um dos números acima.')
+    print('Operação Inválida. Selecione uma das operações indicadas.')
